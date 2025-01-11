@@ -1,4 +1,4 @@
-### Hi there👋 - 🌱 I’m currently learning Mernstack development
+### Hi there👋 - 🌱 I’m currently learning MERN stack development
 
 <!--
 **fazleshifat/fazleshifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
