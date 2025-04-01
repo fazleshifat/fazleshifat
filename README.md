@@ -16,23 +16,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** currently maste
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## 🎨 Coding Animation
-<div style="display: flex; justify-content: center;">
-  ## 🎨 Coding Animation  
-<img src="https://example.com/coding-image.gif" alt="Coding" class="animated-image">
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
+!!!!!!!!!!!
 
-.animated-image {
-  width: 60%;
-  display: block;
-  margin: auto;
-  border-radius: 10px;
-  box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
-  animation: float 3s infinite ease-in-out;
-}
 
 
 </div>
