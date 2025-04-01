@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** currently maste
 
 ## 🎨 Coding Animation
         !!!!!!!!!!
-!!!!!!!!!!    !!!!!!!!!
+        !!!!!!!!!!
         !!!!!!!!!!
 
 ## 📊 GitHub Stats
