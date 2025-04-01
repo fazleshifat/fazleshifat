@@ -22,8 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** currently maste
         !!!!!!!!!!
 
 ## 📊 GitHub Stats
-(https://github-readme-streak-stats.herokuapp.com/?user=fazleshifat&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazleshifat&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazleshifat&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
