@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** currently maste
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fazle-shifat-5490a8270/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=linkedin)](https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcRwRfDVxgcnhnjStQWxbWNGmxHjDtWHNJnQzvXVkdCgSqbQLdcVFBgBccMDGrthKPwbzlVrV)
 
 ---
 
