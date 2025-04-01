@@ -17,7 +17,24 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** currently maste
 
 ## 🎨 Coding Animation
 <div style="display: flex; justify-content: center;">
-  <img src="https://example.com/coding-image.gif" alt="Coding" style="width: 60%; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.5); animation: float 3s infinite ease-in-out;">
+  ## 🎨 Coding Animation  
+<img src="https://example.com/coding-image.gif" alt="Coding" class="animated-image">
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.animated-image {
+  width: 60%;
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+  animation: float 3s infinite ease-in-out;
+}
+
+
 </div>
 
 <style>
