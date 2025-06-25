@@ -15,10 +15,10 @@ I'm a passionate and dedicated web developer with a strong focus on building dyn
 ### 🔍 Current Focus
 
 - 🚀 Exploring **Next.js** and full-stack React applications  
-- 🛒 Working on [**Venmart**](https://venmart.netlify.app/): a modern eCommerce platform for browsing, managing, and purchasing products  
-- 🧑‍🤝‍🧑 Developed [**Hobbins**](https://hobbins.netlify.app/): a collaborative platform for managing groups and users 
-- 💳 Developed [**Marigold**](https://marigold-payment.netlify.app/): an online utility payment system for secure and easy bill payments  
-- 🏥 Developed [**Phudu Doctor**](https://phudu-doctors.netlify.app/): a healthcare appointment app for booking and managing doctor visits  
+- 🛒 Working on [**Venmart**](https://venmart.netlify.app/) a modern eCommerce platform for browsing, managing, and purchasing products  
+- 🧑‍🤝‍🧑 Developed [**Hobbins**](https://hobbins.netlify.app/) a collaborative platform for managing groups and users 
+- 💳 Developed [**Marigold**](https://marigold-payment.netlify.app/) an online utility payment system for secure and easy bill payments  
+- 🏥 Developed [**Phudu Doctor**](https://phudu-doctors.netlify.app/) a healthcare appointment app for booking and managing doctor visits  
 - 📚 On to **Data Structures & Algorithms (DSA)** to strengthen problem-solving and logic building
 
 ## 🌐 Socials:
