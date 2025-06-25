@@ -1,14 +1,24 @@
 
 ![Project Overview](/banner.png)
 
+## 👋 Hi, I'm Felix Tavio  
+### 💻Forntend Web Developer
 
+---
 
+## 🧠 About Me
 
-# 👋 Hello, I'm AL FAZLE SHIFAT!
-<h3>A passionate frontend developer from Bangladesh</h3>
+I'm a passionate and dedicated web developer with a strong focus on building dynamic, user-centric applications using modern technologies. I enjoy learning new tools, writing clean code, and creating smooth user experiences from front to back.
 
-# 💫 About Me:
-🔭 I’m currently working on Venmart an eCommerce platform<br><br>🌱 I’m currently learning React,Node.js,Express.js,MongoDB,JWT Authentication<br><br>💬 Ask me about React<br><br>📫 How to reach me mailbox.shifat@gmail.com
+---
+
+### 🔍 Current Focus
+
+- 🚀 Exploring **Next.js** and **full-stack React applications**
+- 🛒 Working on an [**eCommerce platform (Venmart)**](https://venmart-client.netlify.app/)
+- 💳 Developed an [**online utility payment platform (Marigold)**](https://marigold-payment.netlify.app/)
+- 🏥 Developed a [**healthcare appointment app (Phudu Doctor)**](https://phudu-doctors.netlify.app/)
+- 📚 On to **Data Structures & Algorithms (DSA)**
 
 
 ## 🌐 Socials:
