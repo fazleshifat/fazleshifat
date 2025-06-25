@@ -14,12 +14,12 @@ I'm a passionate and dedicated web developer with a strong focus on building dyn
 
 ### 🔍 Current Focus
 
-- 🚀 Exploring **Next.js** and **full-stack React applications**
-- 🛒 Working on an [**eCommerce platform (Venmart)**](https://venmart-client.netlify.app/)
-- 💳 Developed an [**online utility payment platform (Marigold)**](https://marigold-payment.netlify.app/)
-- 🏥 Developed a [**healthcare appointment app (Phudu Doctor)**](https://phudu-doctors.netlify.app/)
-- 📚 On to **Data Structures & Algorithms (DSA)**
-
+- 🚀 Exploring **Next.js** and full-stack React applications  
+- 🛒 Working on [**Venmart**](https://venmart.netlify.app/): a modern eCommerce platform for browsing, managing, and purchasing products  
+- 💳 Developed [**Marigold**](https://marigold-payment.netlify.app/): an online utility payment system for secure and easy bill payments  
+- 🏥 Developed [**Phudu Doctor**](https://phudu-doctors.netlify.app/): a healthcare appointment app for booking and managing doctor visits  
+- 🧑‍🤝‍🧑 Developed [**Hobbins**](https://hobbins.netlify.app/): a collaborative platform for managing groups and users with full CRUD functionality  
+- 📚 On to **Data Structures & Algorithms (DSA)** to strengthen problem-solving and logic building
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fazle-shifat-5490a8270/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shifat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailbox.shifat@gmail.com) 
