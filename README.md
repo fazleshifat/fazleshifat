@@ -1,13 +1,11 @@
-# 👋 Hello, I'm AL FAZLE SHIFAT!
-
 
 ![1574629246_8959621709619927138_n](https://github.com/user-attachments/assets/3ed4fed2-b76b-431a-a104-f97aaa3235cf)
 
 
 
 
-<h1 align="center">Hi 👋, I'm Al Fazle Shifat</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# 👋 Hello, I'm AL FAZLE SHIFAT!
+<h3>A passionate frontend developer from Bangladesh</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Venmart an eCommerce platform<br><br>🌱 I’m currently learning React,Node.js,Express.js,MongoDB,JWT Authentication<br><br>💬 Ask me about React<br><br>📫 How to reach me mailbox.shifat@gmail.com
