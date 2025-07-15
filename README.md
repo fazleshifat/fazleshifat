@@ -21,8 +21,8 @@ I'm a passionate and dedicated web developer with a strong focus on building dyn
 - 🏥 Developed [**Phudu Doctor**](https://phudu-doctors.netlify.app/) a healthcare appointment app for booking and managing doctor visits  
 - 📚 On to **Data Structures & Algorithms (DSA)** to strengthen problem-solving and logic building
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fazle-shifat-5490a8270/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shifat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailbox.shifat@gmail.com) 
+## 👤 Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fazle-shifat-5490a8270/) [![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white)](https://fazleshifat.netlify.app/) [![Resume](https://img.shields.io/badge/Resume-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1FJHmHs7UcL7b-8ixhwQ5RIGJiI-mya2l/view) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shifat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailbox.shifat@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
