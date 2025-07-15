@@ -24,7 +24,7 @@ I'm a passionate and dedicated web developer with a strong focus on building dyn
 ## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazle-shifat-5490a8270/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://fazleshifat.netlify.app/)
+[![Portfolio](👤](https://fazleshifat.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1FJHmHs7UcL7b-8ixhwQ5RIGJiI-mya2l/view)
 [![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shifat)
 [![Email](https://img.shields.io/badge/Email-30336b.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailbox.shifat@gmail.com)
