@@ -23,11 +23,11 @@ I'm a passionate and dedicated web developer with a strong focus on building dyn
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazle-shifat-5490a8270/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A.svg?logo=internetexplorer&logoColor=white)](https://fazleshifat.netlify.app/)  
-[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1FJHmHs7UcL7b-8ixhwQ5RIGJiI-mya2l/view)  
-[![Twitter/X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/shifat)  
-[![Email](https://img.shields.io/badge/Email-30336b.svg?logo=maildotru&logoColor=white)](mailto:mailbox.shifat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazle-shifat-5490a8270/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://fazleshifat.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1FJHmHs7UcL7b-8ixhwQ5RIGJiI-mya2l/view)
+[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shifat)
+[![Email](https://img.shields.io/badge/Email-30336b.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailbox.shifat@gmail.com)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
