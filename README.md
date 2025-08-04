@@ -2,7 +2,7 @@
 ![Project Overview](/banner.png)
 
 ## 👋 Hi, I'm Al Fazle Shifat
-### 💻Forntend Web Developer
+### 💻Frontend Web Developer
 
 ---
 
